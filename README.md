@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+
+Aplicação feita em ReactJS, utilizando a API do Github para busca de usuários e seus repositórios.
+
+Projeto criado para treino dos conceitos em ReactJS, em conjunto com as aulas da Gama Academy.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,7 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-Aplicação feita em ReactJS, utilizando a API do Github para busca de usuários e seus repositórios.
-
-Projeto criado para treino dos conceitos em ReactJS, em conjunto com as aulas da Gama Academy. 
+ 
 >>>>>>> d9bb95fdc07abeb217690b72f403d6301ef72f39
